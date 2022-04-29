@@ -15,20 +15,19 @@ son múltiplos de dos.
 Escriba un programa que solicite el radio de una circunferencia y permita calcular el
 perímetro. Presente el resultado en la terminal del editor.
 Utilice la siguiente fórmula:
-L = 2 · π · r
-L = Longitud de perímetro
-π = Número pí igual a 3.1416
-r = Radio
+* L = 2 · π · r
+* L = Longitud de perímetro
+* π = Número pí igual a 3.1416
+* r = Radio
 
 ### Ejercicio 4:
 Escriba un programa que solicite el radio de una circunferencia y permita calcular el su
 área. Presente el resultado en la terminal del editor.
 Utilice la siguiente fórmula:
-A = π. r^2
-A = Área
-p. 4
-π = Número pi igual a 3.1416
-r = Radio
+* A = π. r^2
+* A = Área
+* π = Número pi igual a 3.1416
+* r = Radio
 
 ### Ejercicio 5:
 Escriba un programa que solicite un valor entero por pantalla y presente en la terminal del
