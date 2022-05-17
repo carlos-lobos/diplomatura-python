@@ -25,10 +25,14 @@ def sumar(valor1, valor2):
 Crear una función lambda que tome como parámetro una frase y la escriba al revés. 
 
 ### Ejercicio 5 - Dificultad media
-Cree un programa que utilizando una función, solicite la edad de la persona e imprima todos los años que la persona ha cumplido según el siguiente formato de ejemplo. 
+Cree un programa que utilizando una función, solicite la edad de la persona e imprima todos los años que la persona ha cumplido según el siguiente formato de ejemplo.
+```
 1, 2, 3, 4, 5
-Y 
+```
+Y
+```
 5, 4, 3, 2, 1
+```
 
 ### Ejercicio 6 - Dificultad alta
 Cree una función que tome la siguiente lista y reordene de menor a mayor sus componentes:
