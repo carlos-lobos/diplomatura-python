@@ -48,10 +48,14 @@ La V, L y D no pueden duplicarse, ya que existen la X, C y M, que representan re
 ## E) Cifras x1000
 El valor de las cifras romanas se multiplica tantas veces por 1000 como rayas horizontales se coloquen sobre las mismas.
 
-<span style="text-decoration:overline">VII</span> = 7000
+```
+___
+VII = 7000
 
-\___<br>
-<span style="text-decoration:overline">VII</span> = 7000000 (7 millones)
+___
+___
+VII = 7000000 (7 millones)
+```
 
 Algunos ejemplos más:
 * XLIX = 49
