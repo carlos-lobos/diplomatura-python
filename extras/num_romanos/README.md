@@ -63,13 +63,15 @@ Algunos ejemplos más:
 * CMXCIX = 999
 * MMMCMXCIX = 3999
 
-\___<br>
-\_______<br>
+```
+___
+_______
 XIICDXXDX = 12.420.510
 
-\___<br>
-\______<br>
+___
+______
 MCCDXLDC = 1.200.540.600
+```
 
 ## F) El estándar Unicode incluye a los números romanos
 * https://unicode-table.com/es/sets/roman-numerals/
