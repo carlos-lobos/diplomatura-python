@@ -64,10 +64,12 @@ Algunos ejemplos más:
 * MMMCMXCIX = 3999
 
 \___<br>
-<span style="text-decoration:overline">XIICDXX</span>DX = 12.420.510
+\_______<br>
+XIICDXXDX = 12.420.510
 
 \___<br>
-<span style="text-decoration:overline">MCCDXL</span>DC = 1.200.540.600
+\______<br>
+MCCDXLDC = 1.200.540.600
 
 ## F) El estándar Unicode incluye a los números romanos
 * https://unicode-table.com/es/sets/roman-numerals/
