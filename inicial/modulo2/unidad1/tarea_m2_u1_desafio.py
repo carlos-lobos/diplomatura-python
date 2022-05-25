@@ -4,10 +4,10 @@ master = Tk()
 master.title("Tarea-M2-U1-Python Inicial")
 master.geometry("400x150")
 
-background_label = Label(master)
-background_label.place(x=0, y=0, relwidth=1, relheight=1)
-mensaje = Label(master, text="Ingrese los siguientes datos:", bg="#FF7DDD")
-mensaje.grid(row=0, column=1, sticky=W)
+#background_label = Label(master)
+#background_label.place(x=0, y=0, relwidth=1, relheight=1)
+mensaje = Label(master, text="Ingrese los siguientes datos:", bg="purple", fg="white")
+mensaje.grid(row=0, column=0, columnspan=3, sticky=NSEW)
 
 titulo = Label(master, text="Título")
 titulo.grid(row=1, column=0, sticky=W)
@@ -31,7 +31,8 @@ def alta():
     print(var_titulo.get(), var_ruta.get(), var_desc.get())
 
 def sorpresa():
-    background_label.config(background="#FFCA8D")
+    #background_label.config(background="#FFCA8D")
+    master.configure(background="#FFCA8D")
 
 boton_a = Button(master, text="Alta", command=alta)
 boton_a.grid(row=4, column=0)
